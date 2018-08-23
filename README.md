@@ -6,7 +6,7 @@ While Ashlynn Jones and Quentin Hickam were writing the soon to be hit game <a h
 
 >TYPE "W" TO WAIT.
 
-## In "H", you can...
+## In H, you can...
 - Exist. (for billions of years)
 - Form a covalent bond
 - Wait
