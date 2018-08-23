@@ -9,6 +9,7 @@ While Ashlynn Jones and Quentin Hickam were writing the soon to be hit game <a h
 
 ## In "H", you can...
 - Exist. (for billions of years)
+- Witness an Apocalypse
 - Form a covalent bond
 - Wait
 - "Be Like Water"
@@ -25,3 +26,4 @@ While Ashlynn Jones and Quentin Hickam were writing the soon to be hit game <a h
 - Wait
 - Be Born
 - Play a Text-Based Adventure Game
+- w a i t
