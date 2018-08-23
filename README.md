@@ -1,4 +1,3 @@
-# H
 ### _You are an ATOM OF HYDROGEN in a CLOUD OF SPACE DUST._
 
 
